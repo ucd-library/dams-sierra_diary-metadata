@@ -1,0 +1,57 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+     {
+      "@id": "http://id.worldcat.org/fast/1308988"
+    },
+    {
+   		"@id": "http://id.worldcat.org/fast/1334024"
+    },
+    {
+    	"@id": "http://id.worldcat.org/fast/844926"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/MC-342.pdf"
+  },
+  "schema:creator": "Burtchaell Family",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1918"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3tx35d8n",
+    "MC-342"
+  ],
+  "schema:image": {
+    "@id": "@base:/media/images/MC-342_001.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Burtchaell Family Diary",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2025"
+  },
+  "schema:material": "7x9 inches. Limp leather folder. Typed manuscript narrative on one side, original photographs (19 in all) mounted on the other side, set loose in the leather folder.",
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
+}
