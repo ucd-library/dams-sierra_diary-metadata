@@ -37,7 +37,7 @@
   ],
 "schema:description": "Journal with a day-by-day narrative of a family motor excursion to Yosemite and Lake Tahoe in the summer of 1918.",
   "schema:image": {
-    "@id": "info:fedora/item/ark:/87293/d3tx35d8n/media/images/MC-342_001.tif"
+    "@id": "info:fedora/item/ark:/87293/d3tx35d8n/media/images/MC-342_0001_recto.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"

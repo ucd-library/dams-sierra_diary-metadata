@@ -38,7 +38,7 @@
     "MC-342"
   ],
   "schema:image": {
-    "@id": "@base:/media/images/MC-342_001.tif"
+    "@id": "@base:/media/images/MC-342_0001_recto.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
